@@ -1,0 +1,21 @@
+name: Spike
+description: Investigación para responder una pregunta antes de implementar
+type: Task
+labels: [spike]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Pregunta a responder
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto
+  - type: textarea
+    id: deliverable
+    attributes:
+      label: Entregable esperado
+    validations:
+      required: true
