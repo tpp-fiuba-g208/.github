@@ -1,0 +1,7 @@
+contact_links:
+  - name: Tablero SMN
+    url: https://github.com/orgs/tpp-fiuba-g208/projects/1
+    about: Ver el estado de todos los issues de la org.
+  - name: Crear issues con Claude o Codex
+    url: https://github.com/tpp-fiuba-g208/smn-plugins#readme
+    about: Instalá la skill create-issue para cargar issues desde el agente.
