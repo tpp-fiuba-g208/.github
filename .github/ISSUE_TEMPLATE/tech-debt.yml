@@ -19,8 +19,3 @@ body:
     id: proposal
     attributes:
       label: Propuesta
-  - type: dropdown
-    id: priority
-    attributes:
-      label: Prioridad
-      options: [Alta, Media, Baja]

@@ -33,8 +33,3 @@ body:
     id: logs
     attributes:
       label: Logs / capturas
-  - type: dropdown
-    id: priority
-    attributes:
-      label: Prioridad
-      options: [Alta, Media, Baja]
